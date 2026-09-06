@@ -6,7 +6,7 @@ name = "Ghost in the Shell"
 id = "SCES-01050"
 players = 1
 exe = "disc/SCES_010.50"
-disc = "disc/disc.cue"
+disc = "disc/Ghost in the Shell (Europe).cue"
 load_address = "0x80018000"
 entry_pc = "0x80022594"
 text_size = "0x0002A000"
@@ -15,8 +15,8 @@ stack_base = "0x801FFFF0"
 # Digests are for data Track 01 (first BINARY FILE / TRACK 01).
 [prepare_disc]
 out_dir = "disc"
-bin_name = "disc.bin"
-cue_name = "disc.cue"
+bin_name = "Ghost in the Shell (Europe).bin"
+cue_name = "Ghost in the Shell (Europe).cue"
 boot_exe = "SCES_010.50"
 known_sizes = [655620000]
 known_md5 = [

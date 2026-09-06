@@ -13,8 +13,8 @@
     "players": 1
   },
   "rom_identity": {
-    "cue_name": "disc.cue",
-    "bin_name": "disc.bin",
+    "cue_name": "Ghost in the Shell (Europe).cue",
+    "bin_name": "Ghost in the Shell (Europe).bin",
     "track_counts": [
       1
     ],
